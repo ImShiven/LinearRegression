@@ -1,6 +1,6 @@
 # Linear regression algorithm using C#
 
-Prerequesites: 
+Prerequesites:
 1. Linear Algebra:
   a) Matrix Operations (Transpose/Multiplication/Inversion)
   b) Upper & Lower triangular matrices
